@@ -1,0 +1,61 @@
+{
+  "email": "testuser@gmail.com",
+  "password": "testuser"
+}
+
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZjYzYjM5ZWM0MGQ0ZWFlMGE5ZmQzYiIsImlhdCI6MTc0NDE5MDM1MiwiZXhwIjoxNzQ0Mjc2NzUyfQ.7ORs1X8XwA4_TqMgJJrnxAfPRcdzrLOCQNaxYTMaOOc"
+
+All Books
+
+[
+    {
+        "_id": "67f63bffec40d4eae0a9fd3f",
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "price": 399,
+        "rating": 4.8,
+        "publishedDate": "2001-06-26T00:00:00.000Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f63c60ec40d4eae0a9fd42",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "price": 349,
+        "rating": 4.7,
+        "publishedDate": "1937-09-21T00:00:00.000Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f63c72ec40d4eae0a9fd45",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Classic",
+        "price": 299,
+        "rating": 4.9,
+        "publishedDate": "1960-07-11T00:00:00.000Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f63c7bec40d4eae0a9fd48",
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Dystopian",
+        "price": 259,
+        "rating": 4.6,
+        "publishedDate": "1949-06-08T00:00:00.000Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f63ef2ec40d4eae0a9fd67",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "category": "Thriller",
+        "price": 499,
+        "rating": 4.5,
+        "publishedDate": "2003-03-18T00:00:00.000Z",
+        "__v": 0
+    }
+]
